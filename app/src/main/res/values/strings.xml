@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Word Scramble Solver</string>
+    <string name="begin_scan_text">Begin Scan</string>
+    <string name="analyze_scan_text">Analyze Scan</string>
+</resources>

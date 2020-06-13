@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783902822754",
+    "firebase_url": "https://wordscramblesolver.firebaseio.com",
+    "project_id": "wordscramblesolver",
+    "storage_bucket": "wordscramblesolver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783902822754:android:38e219e7ca31b7bb2d5c3b",
+        "android_client_info": {
+          "package_name": "com.jgames.wordScrambleSolver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783902822754-290dd4k8nlpmtmjs7sqj0e2a5tivq2v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxu5Bf31-Orb_xBheofg-p3ImNBC9Jh5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783902822754-290dd4k8nlpmtmjs7sqj0e2a5tivq2v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
